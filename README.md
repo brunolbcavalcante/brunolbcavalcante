@@ -1,11 +1,24 @@
 # Bruno Cavalcante
 
-Economist with experience in **quantitative finance, risk modeling, and macroeconomic forecasting**, having worked at leading institutions such as **Itaú, Safra, and Banco Pan**. Background in the buy side (**Itaú Asset Management**) monitoring risks of global multi-asset hedge funds.  
+Economist and **Data Scientist at Itaú Asset Management**, working with **macroeconomic research, time-series forecasting, and quantitative modeling** for investment applications.
 
-Specialist in **time-series forecasting**, applied econometrics, and **machine learning**, developing predictive models to support strategic decision-making in the financial sector.  
+My background spans **quantitative finance, econometrics, machine learning, causal inference, credit risk, pricing, and market risk**, with experience across **Itaú, Safra, and Banco Pan (BTG Group)**.
 
-Currently a **Teaching Assistant at FGV-EESP**, contributing to graduate courses in *Econometrics*, *Macroeconomics*, and *Forecasting*, while pursuing a PhD focused on **monetary policy shocks, high-frequency identification, and applied macroeconometrics**.  
+I specialize in **time-series forecasting and applied econometrics**, combining statistical models and machine learning to extract signals from high-dimensional economic and financial data. My work includes forecasting, model selection, causal ML, predictive evaluation, and quantitative decision-support systems.
 
-📚 Academic background: **PUC-SP (Economics)**, **Insper (Finance)**, and **FGV-EESP (MSc and PhD in Economics)**.  
+I am also an **Invited Lecturer at FGV-EESP**, teaching graduate-level courses in **Forecasting, Applied Time Series Analysis, and Machine Learning**.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/brunolbc) • [Website](http://www.brunocavalcante.io/)
+Currently pursuing a **PhD in Economics at FGV-EESP**, with research focused on **monetary policy shocks, high-frequency identification, instrumental-variable methods, and applied macroeconometrics**.
+
+### Research & Technical Interests
+
+`Macroeconomic Forecasting` · `Time Series` · `Applied Econometrics` · `Machine Learning` · `Causal Inference` · `Quantitative Finance` · `Python` · `R`
+
+### Education
+
+**FGV-EESP** · PhD Candidate in Economics
+**FGV-EESP** · MSc in Economics
+**Insper** · Postgraduate Program in Finance
+**PUC-SP** · BA in Economics
+
+🔗 [LinkedIn](https://www.linkedin.com/in/brunolbc) · [Website](http://www.brunocavalcante.io/)
