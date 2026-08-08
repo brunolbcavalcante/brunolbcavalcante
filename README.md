@@ -17,8 +17,11 @@ Currently pursuing a **PhD in Economics at FGV-EESP**, with research focused on 
 ### Education
 
 **FGV-EESP** · PhD Candidate in Economics
+
 **FGV-EESP** · MSc in Economics
+
 **Insper** · Postgraduate Program in Finance
+
 **PUC-SP** · BA in Economics
 
 🔗 [LinkedIn](https://www.linkedin.com/in/brunolbc) · [Website](http://www.brunocavalcante.io/)
